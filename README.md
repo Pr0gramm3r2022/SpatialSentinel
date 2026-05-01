@@ -1,4 +1,4 @@
-# 3DSpatialAgents
+# Spatial Sentinel
 A multi-agent computer vision system that helps users understand 
 their surroundings in real time. Uses 3D computer vision to combines object detection with 
 3D depth perception to give agents a spatial awareness of the 
